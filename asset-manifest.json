@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jchou68.github.io/static/css/main.fb16859c.chunk.css",
-    "main.js": "/jchou68.github.io/static/js/main.6abf44d9.chunk.js",
-    "main.js.map": "/jchou68.github.io/static/js/main.6abf44d9.chunk.js.map",
-    "runtime-main.js": "/jchou68.github.io/static/js/runtime-main.43b0d023.js",
-    "runtime-main.js.map": "/jchou68.github.io/static/js/runtime-main.43b0d023.js.map",
-    "static/js/2.06a1a2b8.chunk.js": "/jchou68.github.io/static/js/2.06a1a2b8.chunk.js",
-    "static/js/2.06a1a2b8.chunk.js.map": "/jchou68.github.io/static/js/2.06a1a2b8.chunk.js.map",
-    "static/js/3.fb9a423b.chunk.js": "/jchou68.github.io/static/js/3.fb9a423b.chunk.js",
-    "static/js/3.fb9a423b.chunk.js.map": "/jchou68.github.io/static/js/3.fb9a423b.chunk.js.map",
-    "index.html": "/jchou68.github.io/index.html",
-    "static/css/main.fb16859c.chunk.css.map": "/jchou68.github.io/static/css/main.fb16859c.chunk.css.map",
-    "static/js/2.06a1a2b8.chunk.js.LICENSE.txt": "/jchou68.github.io/static/js/2.06a1a2b8.chunk.js.LICENSE.txt",
-    "static/media/profilePic.3490e2c8.png": "/jchou68.github.io/static/media/profilePic.3490e2c8.png"
+    "main.css": "/static/css/main.fb16859c.chunk.css",
+    "main.js": "/static/js/main.cc2a3f0d.chunk.js",
+    "main.js.map": "/static/js/main.cc2a3f0d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc68fcde.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc68fcde.js.map",
+    "static/js/2.41ba22b0.chunk.js": "/static/js/2.41ba22b0.chunk.js",
+    "static/js/2.41ba22b0.chunk.js.map": "/static/js/2.41ba22b0.chunk.js.map",
+    "static/js/3.3f748304.chunk.js": "/static/js/3.3f748304.chunk.js",
+    "static/js/3.3f748304.chunk.js.map": "/static/js/3.3f748304.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fb16859c.chunk.css.map": "/static/css/main.fb16859c.chunk.css.map",
+    "static/js/2.41ba22b0.chunk.js.LICENSE.txt": "/static/js/2.41ba22b0.chunk.js.LICENSE.txt",
+    "static/media/profilePic.3490e2c8.png": "/static/media/profilePic.3490e2c8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.43b0d023.js",
-    "static/js/2.06a1a2b8.chunk.js",
+    "static/js/runtime-main.fc68fcde.js",
+    "static/js/2.41ba22b0.chunk.js",
     "static/css/main.fb16859c.chunk.css",
-    "static/js/main.6abf44d9.chunk.js"
+    "static/js/main.cc2a3f0d.chunk.js"
   ]
 }
